@@ -36,3 +36,5 @@ Carthage
 #
 # Pods/
 .data/
+
+.cxx/
