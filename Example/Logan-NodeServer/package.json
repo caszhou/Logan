@@ -5,7 +5,8 @@
   "author": "westinchen",
   "license": "MIT",
   "scripts": {
-    "start": "./node_modules/.bin/ts-node ./app.ts"
+    "start": "./node_modules/.bin/ts-node ./app.ts",
+    "start2": "./node_modules/.bin/ts-node ./app2.js"
   },
   "dependencies": {
     "crypto-js": "^4.0.0",
